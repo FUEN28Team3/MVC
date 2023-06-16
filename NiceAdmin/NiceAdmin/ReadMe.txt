@@ -7,4 +7,4 @@
 
 [working on] 創建EFModels
 			 --新增 各自的Controller (View Models)
-			 --cshtml可以從/Default/Index 裡面的Index.cshtml 更改版型內容。123
+			 --cshtml可以從/Default/Index 裡面的Index.cshtml 更改版型內容。
