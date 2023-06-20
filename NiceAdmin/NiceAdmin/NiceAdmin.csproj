@@ -514,10 +514,16 @@
     <Content Include="Scripts\vendor\tinymce\package.json" />
     <Content Include="Scripts\vendor\tinymce\README.md" />
     <Content Include="Views\Default\Index.cshtml" />
+    <Content Include="Views\Default\ContactUs.cshtml" />
+    <Content Include="Views\Default\FormsLayouts.cshtml" />
+    <Content Include="Views\Default\UsersProfile.cshtml" />
+    <Content Include="Views\Default\FormEdit.cshtml" />
+    <Content Include="Views\Default\DataTable.cshtml" />
+    <Content Include="Views\Shared\_LayoutFront.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
+    <Folder Include="Models\EFModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
