@@ -16,5 +16,7 @@ namespace NiceAdmin.Controllers
         public ActionResult ContactUs() { return View(); }
         public ActionResult FormsLayouts() { return View(); }
         public ActionResult UsersProfile() { return View(); }
+        public ActionResult FormEdit() { return View(); }
+        public ActionResult DataTable() { return View(); }
     }
 }
